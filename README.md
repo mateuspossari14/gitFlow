@@ -17,5 +17,6 @@ Alguns assuntos estudados:
 - Merge
 - Commits
 - Pull Request
+- Branch protection rules
 - Trabalhando com mais de 1 branch no projeto
 - Utilizando o fork neste projeto com o novo usuário
